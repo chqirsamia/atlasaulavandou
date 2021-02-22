@@ -1,0 +1,559 @@
+body {
+	margin-left:0px;
+	margin-top:0px;
+	margin-right:0px;
+	text-decoration:none;
+	link :#000000;
+	alink :#000000;
+	vlink :#000000;
+	}
+
+
+	
+.pied_de_page {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	color:#CC0000;
+	font-size:9px;
+	}
+.pied_de_page_link {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	color:#CC0000;
+	font-size:9px;
+	}
+
+.pied_de_page_link:hover {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	color:#FFCCCC;
+	font-size:9px;
+	}
+
+.auth_text {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#000000;
+	font-weight:bold;
+	}
+	
+.Op_Text {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:20px;
+	color:#000000;
+	font-weight:bold;
+	}
+
+.auth_text_aide {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#CC0000;
+	}
+
+.auth_title {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	font-weight:bold;
+	color:#FFFFFF;
+	background-color:#CC0000;
+	}
+	
+.auth_input_textfield {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#000000;
+	BORDER-RIGHT: #666666 1px solid;
+	BORDER-LEFT: #666666 1px solid;
+	BORDER-TOP: #666666 1px solid;
+	border-bottom: #666666 1px solid;
+	}
+
+select {
+	
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#000000;
+	BORDER-RIGHT: #666666 1px solid;
+	BORDER-LEFT: #666666 1px solid;
+	BORDER-TOP: #666666 1px solid;
+	border-bottom: #666666 1px solid;
+	}
+
+	
+.auth_input_button {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	font-weight:bold;
+	color:#000000;
+	BORDER-RIGHT: #666666 1px solid;
+	BORDER-LEFT: #666666 1px solid;
+	BORDER-TOP: #666666 1px solid;
+	border-bottom: #666666 1px solid;
+	
+	}
+
+hr {
+	border:1px solid #666666;
+	}
+
+.iframe {
+	BORDER-RIGHT: #666666 1px solid;
+	BORDER-LEFT: #666666 1px solid;
+	BORDER-TOP: #666666 1px solid;
+	border-bottom: #666666 1px solid;
+	}
+
+.menu_text {
+	font-size:12px;
+	color:#FF9999;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	background-color:#CC0000;
+	text-decoration:none;
+	font-weight:bold;
+	text-align:center;
+	}
+
+.menu_text:hover {
+	font-size:12px;
+	color:#FFFFFF;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	background-color:#CC0000;
+	text-decoration:none;
+	font-weight:bold;
+	text-align:center;
+	}
+
+.menu_gauche_table {
+	BORDER-RIGHT: #666666 1px solid;
+	BORDER-LEFT: #666666 1px solid;
+	BORDER-TOP: #666666 1px solid;
+	}
+
+.menu_gauche_text {
+	color:#000000;
+	font-size:12px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	BORDER-BOTTOM: #666666 1px solid;
+	text-decoration:none;
+	font-weight:bold;
+	}
+
+a {
+	text-decoration : none;
+}
+
+.menu_gauche_text:hover {
+	color:#CC0000;
+	font-size:12px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	BORDER-BOTTOM: #666666 1px solid;
+	text-decoration:none;
+	font-weight:bold;
+	font-style:italic
+	}
+
+.menu_gauche_subtitle {
+	color:#000000;
+	font-size:12px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	text-decoration:none;
+	font-weight:bold;
+	}
+
+
+.menu_gauche_title {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	font-weight:bold;
+	color:#FFFFFF;
+	background-color:#CC0000;
+	BORDER-BOTTOM: #666666 1px solid;
+	}
+
+.menu_gauche_select {
+	BORDER-RIGHT: #666666 1px solid;
+	BORDER-LEFT: #666666 1px solid;
+	BORDER-TOP: #666666 1px solid;
+	border-bottom: #666666 1px solid;
+	}	
+
+.operateur_LibDefaut_cabine {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:16px;
+	font-weight:bold;
+	color:#000000;
+	}
+
+.operateur_Defaut_cabine {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:16px;
+	font-weight:bold;
+	color:#0066FF;
+	}
+
+.operateur_Info_cabine {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:18px;
+	font-weight:bold;
+	color:#0066FF;
+	}
+
+.operateur_LibInfo_cabine {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:18px;
+	font-weight:bold;
+	color:#000000;
+	}
+
+
+.operateur_Passage_cabine_Entete {
+	text-align:center;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	font-weight:bold;
+	color:#000000;
+	border-bottom: #666666 2px solid;
+	BORDER-LEFT: #666666 2px solid;
+	border-right: #666666 2px solid;
+	BORDER-TOP: #666666 2px solid;
+	}
+
+.operateur_Passage_cabine {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:9px;
+	color:#000000;
+	BORDER-LEFT: #666666 2px solid;
+	border-right: #666666 2px solid;
+	border-bottom: #666666 1px solid;
+	}
+
+.operateur_Passage_table {
+	BORDER-RIGHT: #666666 1px solid;
+	BORDER-LEFT: #666666 1px solid;
+	BORDER-TOP: #666666 1px solid;
+	border-bottom: #666666 1px solid;
+	}
+
+.exploitant_parametre_Entete {
+	text-align:center;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	font-weight:bold;
+	color:#000000;
+	border-bottom: #666666 thin solid;
+	BORDER-LEFT: #666666 thin solid;
+	border-right: #666666 thin solid;
+	BORDER-TOP: #666666 thin solid;
+	}
+
+.exploitant_parametre {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#000000;
+	BORDER-LEFT: #666666 thin solid;
+	border-right: #666666 thin solid;
+	border-bottom: #666666 thin solid;
+	}
+
+.exploitant_parametre_table {
+	BORDER-RIGHT: #666666 1px solid;
+	BORDER-LEFT: #666666 1px solid;
+	BORDER-TOP: #666666 1px solid;
+	border-bottom: #666666 1px solid;
+	}
+
+.exploitant_parametre_linktop {
+	text-decoration:none;
+	color:#CC0000;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:bold;
+	line-height:30px;
+	}
+
+.exploitant_parametre_linktop:hover {
+	text-decoration:none;
+	color:blue;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:bold;
+	line-height:30px;
+	}
+
+.exploitant_parametre_link {
+	text-decoration:none;
+	color:blue;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:bold;
+	}
+
+.exploitant_parametre_link:hover {
+	text-decoration:none;
+	color:#CC0000;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:bold;
+	}
+
+.demerite_entete {
+	text-align:center;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	font-weight:bold;
+	color:#000000;
+	border-bottom: #666666 1px solid;
+	BORDER-LEFT: #666666 1px solid;
+	border-right: #666666 1px solid;
+	BORDER-TOP: #666666 1px solid;
+	}
+
+.demerite {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:10px;
+	color:#000000;
+	BORDER-LEFT: #666666 1px solid;
+	border-right: #666666 1px solid;
+	border-bottom: #666666 1px solid;
+	}
+
+.demerite_link {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:10px;
+	color:#CC0000;
+	BORDER-LEFT: #666666 1px solid;
+	border-right: #666666 1px solid;
+	border-bottom: #666666 1px solid;
+	text-align:center;
+	text-decoration : none;
+	font-weight:bold;
+	}
+	
+.demerite_link:hover {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:10px;
+	color:Blue;
+	BORDER-LEFT: #666666 1px solid;
+	border-right: #666666 1px solid;
+	border-bottom: #666666 1px solid;
+	text-align:center;
+	text-decoration : none;
+	font-weight:bold;
+	}
+	
+.demerite_button {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:14px;
+	font-weight:bold;
+	color:#000000;
+	BORDER-RIGHT: #666666 1px solid;
+	BORDER-LEFT: #666666 1px solid;
+	BORDER-TOP: #666666 1px solid;
+	border-bottom: #666666 1px solid;
+	line-height:30px;
+	}	
+
+.del_param_link {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#000000;
+	}
+
+.lst_cabine {
+	BORDER-RIGHT: #666666 1px solid;
+	border-bottom: #666666 1px solid;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:10px;
+	}
+	
+.lst_cabine_big {
+	BORDER-RIGHT: #666666 1px solid;
+	border-bottom: #666666 1px solid;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	}
+	
+.lst_cabine_entete {
+	text-align:center;	
+	BORDER-RIGHT: #666666 1px solid;
+	border-bottom: #666666 1px solid;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:10px;
+	font-weight:bold;
+	}
+
+.lst_cabine_minititle
+	{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	font-weight:bold;
+	color:#FFFFFF;
+	background-color:#CC0000;
+	BORDER-RIGHT: #666666 1px solid;
+	border-bottom: #666666 1px solid;
+	}
+	
+.lst_cabine_minititle_big
+	{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:14px;
+	font-weight:bold;
+	color:#FFFFFF;
+	background-color:#CC0000;
+	BORDER-RIGHT: #666666 1px solid;
+	border-bottom: #666666 1px solid;
+	}
+
+.lst_cabine_table {
+	BORDER-LEFT: #666666 1px solid;
+	BORDER-TOP: #666666 1px solid;
+	}
+
+.lst_cabine_link {
+	text-decoration:none;
+	color:blue;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:bold;
+	}
+
+.lst_cabine_link:hover {
+	text-decoration:none;
+	color:#CC0000;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:bold;
+	}
+
+.lst_cabine_link_big {
+	text-decoration:none;
+	color:blue;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	font-weight:bold;
+	}
+
+.lst_cabine_link_big:hover {
+	text-decoration:none;
+	color:#CC0000;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	font-weight:bold;
+	}
+
+	
+.Op_Text_td {
+	BORDER-RIGHT: #666666 1px solid;
+	border-bottom: #666666 1px solid;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:20px;
+	color:#000000;
+	font-weight:bold;
+	}
+
+.Select_Operateur {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:14px;
+	color:#0066FF;
+	BORDER-RIGHT: #666666 1px solid;
+	BORDER-LEFT: #666666 1px solid;
+	BORDER-TOP: #666666 1px solid;
+	border-bottom: #666666 1px solid;
+	font-weight:bold;
+	}
+
+.input_Operateur {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:16px;
+	font-weight:bold;
+	color:#000000;
+	BORDER-RIGHT: #666666 1px solid;
+	BORDER-LEFT: #666666 1px solid;
+	BORDER-TOP: #666666 1px solid;
+	border-bottom: #666666 1px solid;
+	}
+
+.auth_input_button_blue  {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	font-weight:bold;
+	color:#000000;
+	background-image:url(../images/bouton.gif);
+	width: 75px;
+	height: 23px;
+	cursor:hand;
+	BORDER-RIGHT: #666666 0px solid;
+	BORDER-LEFT: #666666 0px solid;
+	BORDER-TOP: #666666 0px solid;
+	border-bottom: #666666 0px solid;
+	}
+
+.matrice_select {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:14px;
+	color:#000000;
+	BORDER-RIGHT: #666666 1px solid;
+	BORDER-LEFT: #666666 1px solid;
+	BORDER-TOP: #666666 1px solid;
+	border-bottom: #666666 1px solid;
+	font-weight:bold;
+	}
+
+.matrice_select_Big {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:17px;
+	color:#000000;
+	BORDER-RIGHT: #666666 1px solid;
+	BORDER-LEFT: #666666 1px solid;
+	BORDER-TOP: #666666 1px solid;
+	border-bottom: #666666 1px solid;
+	font-weight:bold;
+	}
+	
+.prn_Info_cabine {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:13px;
+	font-weight:bold;
+	color:#0066FF;
+	}
+
+.prn_LibInfo_cabine {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:13px;
+	font-weight:bold;
+	color:#000000;
+	}
+	
+.prn_table {
+	BORDER-RIGHT: #666666 4px double;
+	BORDER-LEFT: #666666 4px double;
+	BORDER-TOP: #666666 4px double;
+	border-bottom: #666666 4px double;
+	}
+
+.prn_libdecision {
+	font-size:12px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	}
+
+.prn_decision {
+	font-size:19px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	}
+
+.prn_passage {
+	font-size:14px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	}
+
+.prn_decision_userdsc {
+	font-size:12px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	}
+	
+
+.lst_cabine_hand{
+	cursor : hand;
+	BORDER-RIGHT: #666666 1px solid;
+	border-bottom: #666666 1px solid;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:10px;
+	}
